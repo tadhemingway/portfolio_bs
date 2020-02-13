@@ -33,7 +33,7 @@ nav {
 }
 
 .self_image {
-    width: 265px;
+    width: 260px;
     height: 300px;
     float: left;
 }
@@ -93,7 +93,7 @@ footer {
     color: #dddddd;
 }
 
-.pic_1, .pic_2, .pic_3, .pic_4, .pic_5 {
+.pic_1, .pic_2, .pic_3, .pic_4, .pic_5, .pic_6 {
     position: relative;
     font-family: Georgia, times, 'Times New Roman', Times, serif;
     margin-right: 40px;
@@ -126,6 +126,12 @@ img {
 
 .row_two_image {
     overflow: auto;
+    margin-top: 30px;
+}
+
+.row_three_image {
+    overflow: auto;
+    margin-top: 30px;
 }
 
 label {
